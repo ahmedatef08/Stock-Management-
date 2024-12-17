@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eliUhOq05Us=",
+  "success": true,
+  "projectFilePath": "H:\\StockManagement-imperative\\StockManagement\\StockManagement.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xpress\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512",
+    "C:\\Users\\Xpress\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

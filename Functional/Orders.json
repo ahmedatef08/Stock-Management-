@@ -1,0 +1,18 @@
+[
+  {
+    "orderId": 2,
+    "orderDate": "2024-12-12T16:09:51.1766559+02:00",
+    "productId": 1,
+    "userId": 5001,
+    "quantityOrdered": 5,
+    "orderTotalPrice": 750.0
+  },
+  {
+    "orderId": 1,
+    "orderDate": "2023-12-10T14:00:00Z",
+    "productId": 1,
+    "userId": 101,
+    "quantityOrdered": 2,
+    "orderTotalPrice": 300.0
+  }
+]

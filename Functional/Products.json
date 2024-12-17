@@ -1,0 +1,16 @@
+[
+  {
+    "productId": 1,
+    "productName": "tab",
+    "productPrice": 150.0,
+    "quantityInStock": 230,
+    "thresholdQuantity": 10
+  },
+  {
+    "productId": 2,
+    "productName": "iphone16 promax",
+    "productPrice": 300.0,
+    "quantityInStock": 50,
+    "thresholdQuantity": 15
+  }
+]

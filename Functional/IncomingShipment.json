@@ -1,0 +1,14 @@
+[
+  {
+    "shipmentId": 1,
+    "shipmentDate": "2023-12-10T14:00:00Z",
+    "quantityReceived": 10,
+    "productId": 1
+  },
+  {
+    "shipmentId": 2,
+    "shipmentDate": "2024-12-12T14:29:23.5682372Z",
+    "quantityReceived": 10,
+    "productId": 1
+  }
+]
